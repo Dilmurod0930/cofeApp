@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "441623703980",
+    "project_id": "cofeapp-bab3d",
+    "storage_bucket": "cofeapp-bab3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441623703980:android:20b6a961a7f1eea4da0a09",
+        "android_client_info": {
+          "package_name": "com.dilmurodqurbonov.coffeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441623703980-3q0ts8desccp3j5rj9svc6gdj0s1a9ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dilmurodqurbonov.coffeapp",
+            "certificate_hash": "3b970d0c6727b03c6bdb74963058c43473aa01a8"
+          }
+        },
+        {
+          "client_id": "441623703980-qb6iga8uo9usordp1otkq0im44dqgc9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeSCTEc_baEmEDRncPKPn1LRhOOQA5Ndk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441623703980-qb6iga8uo9usordp1otkq0im44dqgc9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
